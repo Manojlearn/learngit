@@ -1,5 +1,4 @@
-**Installing Git with Apt for Ubuntu
-**
+**Installing Git with Apt for Ubuntu**
 
 Follow these steps to install Git on your Ubuntu system:
 
